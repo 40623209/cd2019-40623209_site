@@ -51,7 +51,7 @@
 <v t="leo.20190614052012.1"><vh>week18</vh>
 <v t="leo.20190614052012.2"><vh>w18</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180902120523.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -392,6 +392,10 @@ vertical: body pane on the botton</t>
 * 規劃手足球模擬的進度
 
 * 進行手足球基本操作的模擬
+
+### 手足球基本操作
+
+&lt;iframe src="https://vimeo.com/342135612" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190419014519.1">&lt;section data-markdown&gt;
