@@ -42,9 +42,6 @@
 <v t="leo.20190419014511.1"><vh>week6</vh>
 <v t="leo.20190419014511.2"><vh>w6</vh></v>
 </v>
-<v t="leo.20190419014510.1"><vh>week7</vh>
-<v t="leo.20190419014510.2"><vh>w7</vh></v>
-</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -304,21 +301,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20190419014510.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014510.2"># Week7
-
-* 清明節連假
-
-
-</t>
 <t tx="leo.20190419014511.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
