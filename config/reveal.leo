@@ -31,10 +31,15 @@
 <v t="leo.20190614052603.2"><vh>w11</vh></v>
 </v>
 <v t="leo.20190419014518.1" a="E"><vh>week12</vh>
-<v t="leo.20190419014518.2"><vh>w12</vh></v>
+<v t="leo.20190614064659.1" a="E"><vh>12-1</vh>
+<v t="leo.20190614064659.2"><vh>12-2</vh></v>
+</v>
 </v>
 <v t="leo.20190419014516.1" a="E"><vh>week13</vh>
-<v t="leo.20190419014516.2"><vh>w13</vh></v>
+<v t="leo.20190614064745.1" a="E"><vh>13-1</vh>
+<v t="leo.20190614064745.2"><vh>13-2</vh></v>
+<v t="leo.20190614064816.1"><vh>13-3</vh></v>
+</v>
 </v>
 <v t="leo.20190419014515.1" a="E"><vh>week14</vh>
 <v t="leo.20190419014515.2"><vh>w14</vh></v>
@@ -51,7 +56,7 @@
 <v t="leo.20190614052012.1"><vh>week18</vh>
 <v t="leo.20190614052012.2"><vh>w18</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180902120523.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -368,19 +373,6 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190419014516.2"># Week13
-
-* 進行手足球的組裝模擬
-
-### 手足球組裝模擬
-&lt;iframe src="https://player.vimeo.com/video/342135612" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
-
-
-* 進行手足球的內部勾選
-
-### 手足球內部勾選
-&lt;iframe src="https://player.vimeo.com/video/342135327" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="leo.20190419014518.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -389,19 +381,6 @@ vertical: body pane on the botton</t>
 
 
 						
-</t>
-<t tx="leo.20190419014518.2"># Week12
-
-* 做執行規劃
-
-* 規劃手足球模擬的進度
-
-* 進行手足球基本操作的模擬
-
-
-### 手足球基本操作
-
-&lt;iframe src="https://player.vimeo.com/video/342135459" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190419014519.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -486,6 +465,27 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 * 對全班期末倉儲進行fork，了解pull request使用方法。
 
 
+</t>
+<t tx="leo.20190614064659.1"># Week12
+
+* 做執行規劃
+
+* 規劃手足球模擬的進度
+
+* 進行手足球基本操作的模擬</t>
+<t tx="leo.20190614064659.2">### 手足球基本操作
+
+&lt;iframe src="https://player.vimeo.com/video/342135459" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190614064745.1"># Week13
+
+* 進行手足球的組裝模擬
+
+* 進行手足球的內部勾選</t>
+<t tx="leo.20190614064745.2">### 手足球組裝模擬
+&lt;iframe src="https://player.vimeo.com/video/342135612" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190614064816.1">### 手足球內部勾選
+&lt;iframe src="https://player.vimeo.com/video/342135327" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
