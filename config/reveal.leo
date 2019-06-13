@@ -45,9 +45,6 @@
 <v t="leo.20190419014510.1"><vh>week7</vh>
 <v t="leo.20190419014510.2"><vh>w7</vh></v>
 </v>
-<v t="leo.20190419014508.1"><vh>week8</vh>
-<v t="leo.20190419014508.2"><vh>w8</vh></v>
-</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -307,21 +304,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20190419014508.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014508.2"># Week8
-
-* 在更新Blog時無法正常地更改內容，
-原因:在w5的隨身系統裡少了pelican所以無法正確的更新。
-
-</t>
 <t tx="leo.20190419014510.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
