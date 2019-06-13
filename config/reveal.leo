@@ -410,12 +410,10 @@ vertical: body pane on the botton</t>
 ### 手足球模擬-bg2
 
 &lt;small&gt;
-Created by [第二組](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g2)
+Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/index.html)
 &lt;/small&gt;
 
-&lt;small&gt;
-[BLOG](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/blog/)
-&lt;/small&gt;
+
 
 </t>
 </tnodes>
