@@ -21,7 +21,7 @@
 <v t="leo.20180902120523.6" a="E"><vh>body</vh>
 <v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20190419131456.1"><vh>封面投影片</vh>
+<v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190419014519.1"><vh>week10</vh>
@@ -31,15 +31,10 @@
 <v t="leo.20190614052603.2"><vh>w11</vh></v>
 </v>
 <v t="leo.20190419014518.1" a="E"><vh>week12</vh>
-<v t="leo.20190614064659.1" a="E"><vh>12-1</vh>
-<v t="leo.20190614064659.2"><vh>12-2</vh></v>
-</v>
+<v t="leo.20190614064659.1"><vh>12-1</vh></v>
 </v>
 <v t="leo.20190419014516.1" a="E"><vh>week13</vh>
-<v t="leo.20190614064745.1" a="E"><vh>13-1</vh>
-<v t="leo.20190614064745.2"><vh>13-2</vh></v>
-<v t="leo.20190614064816.1"><vh>13-3</vh></v>
-</v>
+<v t="leo.20190614064745.1"><vh>13-1</vh></v>
 </v>
 <v t="leo.20190419014515.1" a="E"><vh>week14</vh>
 <v t="leo.20190419014515.2"><vh>w14</vh></v>
@@ -63,7 +58,7 @@
 <v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18"><vh>導入影片</vh>
+<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -473,19 +468,10 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 * 規劃手足球模擬的進度
 
 * 進行手足球基本操作的模擬</t>
-<t tx="leo.20190614064659.2">### 手足球基本操作
-
-&lt;iframe src="https://player.vimeo.com/video/342135459" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="leo.20190614064745.1"># Week13
 
 * 進行手足球的組裝模擬
 
 * 進行手足球的內部勾選</t>
-<t tx="leo.20190614064745.2">### 手足球組裝模擬
-&lt;iframe src="https://player.vimeo.com/video/342135612" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20190614064816.1">### 手足球內部勾選
-&lt;iframe src="https://player.vimeo.com/video/342135327" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 </tnodes>
 </leo_file>
