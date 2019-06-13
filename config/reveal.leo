@@ -21,7 +21,7 @@
 <v t="leo.20180902120523.6" a="E"><vh>body</vh>
 <v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20190419131456.1"><vh>封面投影片</vh>
+<v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190419014519.1" a="E"><vh>week10</vh>
@@ -417,7 +417,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20190419131456.2">## 協同產品設計
 
-### 手足球模擬-bg2
+### 手足球模擬-bg 2
 
 &lt;small&gt;
 Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/index.html)
