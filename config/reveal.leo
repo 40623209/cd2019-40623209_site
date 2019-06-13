@@ -21,13 +21,13 @@
 <v t="leo.20180902120523.6" a="E"><vh>body</vh>
 <v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190419131456.1"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190419014519.1" a="E"><vh>week10</vh>
+<v t="leo.20190419014519.1"><vh>week10</vh>
 <v t="leo.20190419014519.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20190614052603.1" a="E"><vh>week11</vh>
+<v t="leo.20190614052603.1"><vh>week11</vh>
 <v t="leo.20190614052603.2"><vh>w11</vh></v>
 </v>
 <v t="leo.20190419014518.1" a="E"><vh>week12</vh>
@@ -36,7 +36,7 @@
 <v t="leo.20190419014516.1" a="E"><vh>week13</vh>
 <v t="leo.20190419014516.2"><vh>w13</vh></v>
 </v>
-<v t="leo.20190419014515.1"><vh>week14</vh>
+<v t="leo.20190419014515.1" a="E"><vh>week14</vh>
 <v t="leo.20190419014515.2"><vh>w14</vh></v>
 </v>
 <v t="leo.20190419014513.1"><vh>week15</vh>
@@ -51,14 +51,14 @@
 <v t="leo.20190614052012.1"><vh>week18</vh>
 <v t="leo.20190614052012.2"><vh>w18</vh></v>
 </v>
-<v t="leo.20180902120523.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -372,9 +372,14 @@ vertical: body pane on the botton</t>
 
 * 進行手足球的組裝模擬
 
+### 手足球組裝模擬
+&lt;iframe src="https://player.vimeo.com/video/342135612" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+
+
 * 進行手足球的內部勾選
 
-
+### 手足球內部勾選
+&lt;iframe src="https://player.vimeo.com/video/342135327" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190419014518.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -393,10 +398,10 @@ vertical: body pane on the botton</t>
 
 * 進行手足球基本操作的模擬
 
+
 ### 手足球基本操作
 
-&lt;iframe src="https://vimeo.com/342135612" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe src="https://player.vimeo.com/video/342135459" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190419014519.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
