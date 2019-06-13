@@ -27,7 +27,7 @@
 <v t="leo.20190419014519.1" a="E"><vh>week10</vh>
 <v t="leo.20190419014519.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20190614052603.1"><vh>week11</vh>
+<v t="leo.20190614052603.1" a="E"><vh>week11</vh>
 <v t="leo.20190614052603.2"><vh>w11</vh></v>
 </v>
 <v t="leo.20190419014518.1" a="E"><vh>week12</vh>
@@ -36,19 +36,19 @@
 <v t="leo.20190419014516.1" a="E"><vh>week13</vh>
 <v t="leo.20190419014516.2"><vh>w13</vh></v>
 </v>
-<v t="leo.20190419014515.1" a="E"><vh>week14</vh>
+<v t="leo.20190419014515.1"><vh>week14</vh>
 <v t="leo.20190419014515.2"><vh>w14</vh></v>
 </v>
-<v t="leo.20190419014513.1" a="E"><vh>week15</vh>
+<v t="leo.20190419014513.1"><vh>week15</vh>
 <v t="leo.20190419014513.2"><vh>w15</vh></v>
 </v>
-<v t="leo.20190419014511.1" a="E"><vh>week16</vh>
+<v t="leo.20190419014511.1"><vh>week16</vh>
 <v t="leo.20190419014511.2"><vh>w16</vh></v>
 </v>
-<v t="leo.20190614051959.1" a="E"><vh>week17</vh>
+<v t="leo.20190614051959.1"><vh>week17</vh>
 <v t="leo.20190614051959.2"><vh>w17</vh></v>
 </v>
-<v t="leo.20190614052012.1" a="E"><vh>week18</vh>
+<v t="leo.20190614052012.1"><vh>week18</vh>
 <v t="leo.20190614052012.2"><vh>w18</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
@@ -322,7 +322,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20190419014511.2"># Week16
 
 * 端午節連假
-*上週的問題這週已解決
+
+* 上週的問題這週已解決
 
 </t>
 <t tx="leo.20190419014513.1">&lt;section data-markdown&gt;
@@ -356,6 +357,7 @@ vertical: body pane on the botton</t>
 
 
 
+
 </t>
 <t tx="leo.20190419014516.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -368,8 +370,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20190419014516.2"># Week13
 
-*進行手足球的組裝模擬
-*進行手足球的內部勾選
+* 進行手足球的組裝模擬
+
+* 進行手足球的內部勾選
 
 
 </t>
@@ -386,9 +389,9 @@ vertical: body pane on the botton</t>
 
 * 做執行規劃
 
-*規劃手足球模擬的進度
+* 規劃手足球模擬的進度
 
-*進行手足球基本操作的模擬
+* 進行手足球基本操作的模擬
 
 </t>
 <t tx="leo.20190419014519.1">&lt;section data-markdown&gt;
@@ -438,7 +441,10 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 <t tx="leo.20190614051959.2"># Week17
 
 * 整份執行規劃完成
-*錄製期末報告影片
+
+* 錄製期末報告影片
+
+* 完成個人倉儲
 
 </t>
 <t tx="leo.20190614052012.1">&lt;section data-markdown&gt;
@@ -467,6 +473,7 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 <t tx="leo.20190614052603.2"># Week11
 
 * 重選一位組長，並分配工作。
+
 * 對全班期末倉儲進行fork，了解pull request使用方法。
 
 
