@@ -3,10 +3,12 @@
 
 個人網站:https://40623209.github.io/cd2019-40623209_site/content/index.html
 
+個人投影片:https://40623209.github.io/cd2019-40623209_site/reveal/index.html#/
+
 分組網站:https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/content/index.html
 
 BLOG:https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/blog/
 
-投影片:https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/reveal/
+
 
 
