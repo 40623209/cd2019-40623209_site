@@ -24,7 +24,7 @@
 <v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190419014519.1" a="E"><vh>week1</vh>
+<v t="leo.20190419014519.1"><vh>week1</vh>
 <v t="leo.20190419014519.2"><vh>w1</vh></v>
 </v>
 <v t="leo.20190419014518.1"><vh>week2</vh>
@@ -39,17 +39,14 @@
 <v t="leo.20190419014513.1"><vh>week5</vh>
 <v t="leo.20190419014513.2"><vh>w5</vh></v>
 </v>
-<v t="leo.20190419014511.1" a="E"><vh>week6</vh>
+<v t="leo.20190419014511.1"><vh>week6</vh>
 <v t="leo.20190419014511.2"><vh>w6</vh></v>
 </v>
-<v t="leo.20190419014510.1" a="E"><vh>week7</vh>
+<v t="leo.20190419014510.1"><vh>week7</vh>
 <v t="leo.20190419014510.2"><vh>w7</vh></v>
 </v>
-<v t="leo.20190419014508.1" a="E"><vh>week8</vh>
+<v t="leo.20190419014508.1"><vh>week8</vh>
 <v t="leo.20190419014508.2"><vh>w8</vh></v>
-</v>
-<v t="leo.20190419014505.1" a="E"><vh>week9</vh>
-<v t="leo.20190419014505.2"><vh>w9</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -310,20 +307,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20190419014505.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014505.2"># Week9
-
-* 期中考週，各組需完成手足球模擬的任務。
-
-</t>
 <t tx="leo.20190419014508.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
