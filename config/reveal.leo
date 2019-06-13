@@ -24,32 +24,32 @@
 <v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190419014519.1" a="E"><vh>week1</vh>
-<v t="leo.20190419014519.2"><vh>w1</vh></v>
+<v t="leo.20190419014519.1" a="E"><vh>week10</vh>
+<v t="leo.20190419014519.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20190419014518.1"><vh>week2</vh>
-<v t="leo.20190419014518.2"><vh>w2</vh></v>
+<v t="leo.20190614052603.1" a="E"><vh>week11</vh>
+<v t="leo.20190614052603.2"><vh>w11</vh></v>
 </v>
-<v t="leo.20190419014516.1"><vh>week3</vh>
-<v t="leo.20190419014516.2"><vh>w3</vh></v>
+<v t="leo.20190419014518.1" a="E"><vh>week12</vh>
+<v t="leo.20190419014518.2"><vh>w12</vh></v>
 </v>
-<v t="leo.20190419014515.1"><vh>week4</vh>
-<v t="leo.20190419014515.2"><vh>w4</vh></v>
+<v t="leo.20190419014516.1" a="E"><vh>week13</vh>
+<v t="leo.20190419014516.2"><vh>w13</vh></v>
 </v>
-<v t="leo.20190419014513.1"><vh>week5</vh>
-<v t="leo.20190419014513.2"><vh>w5</vh></v>
+<v t="leo.20190419014515.1"><vh>week14</vh>
+<v t="leo.20190419014515.2"><vh>w14</vh></v>
 </v>
-<v t="leo.20190419014511.1" a="E"><vh>week6</vh>
-<v t="leo.20190419014511.2"><vh>w6</vh></v>
+<v t="leo.20190419014513.1"><vh>week15</vh>
+<v t="leo.20190419014513.2"><vh>w15</vh></v>
 </v>
-<v t="leo.20190419014510.1" a="E"><vh>week7</vh>
-<v t="leo.20190419014510.2"><vh>w7</vh></v>
+<v t="leo.20190419014511.1"><vh>week16</vh>
+<v t="leo.20190419014511.2"><vh>w16</vh></v>
 </v>
-<v t="leo.20190419014508.1" a="E"><vh>week8</vh>
-<v t="leo.20190419014508.2"><vh>w8</vh></v>
+<v t="leo.20190614051959.1"><vh>week17</vh>
+<v t="leo.20190614051959.2"><vh>w17</vh></v>
 </v>
-<v t="leo.20190419014505.1" a="E"><vh>week9</vh>
-<v t="leo.20190419014505.2"><vh>w9</vh></v>
+<v t="leo.20190614052012.1"><vh>week18</vh>
+<v t="leo.20190614052012.2"><vh>w18</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -310,50 +310,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20190419014505.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014505.2"># Week9
-
-* 期中考週，各組需完成手足球模擬的任務。
-
-</t>
-<t tx="leo.20190419014508.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014508.2"># Week8
-
-* 在更新Blog時無法正常地更改內容，
-原因:在w5的隨身系統裡少了pelican所以無法正確的更新。
-
-</t>
-<t tx="leo.20190419014510.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190419014510.2"># Week7
-
-* 清明節連假
-
-
-</t>
 <t tx="leo.20190419014511.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -363,9 +319,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190419014511.2"># Week6
+<t tx="leo.20190419014511.2"># Week16
 
-* 閱讀BubbleRob Tutorial，練習使用v-rep模擬。
+* 端午節連假
+
+* 上週的問題這週已解決
 
 </t>
 <t tx="leo.20190419014513.1">&lt;section data-markdown&gt;
@@ -377,11 +335,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190419014513.2"># Week5
+<t tx="leo.20190419014513.2"># Week15
 
-* 在使用.ssh時因為在home底下沒有設置個人rsa檔，
-所以在推送時會發生衝突,只有一開始推成功的人才有權限，
-而在.ssh下的config裡也要設定身分這樣才不會發生衝突。
+* 在進行模擬電腦對電腦的時候遇到困難，嘗試解決它。
 
 
 
@@ -395,9 +351,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190419014515.2"># Week4
+<t tx="leo.20190419014515.2"># Week14
 
-* 設定在.ssh時所需要用的Public Keys， 這樣可以避免在別人面前推送時打帳密被別人看到， 利用Public Keys在ungit上快速推送。
+* 討論及撰寫手足球的模擬規劃，並安排進度。
+
 
 
 
@@ -411,10 +368,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190419014516.2"># Week3
+<t tx="leo.20190419014516.2"># Week13
 
-* 亂數分組，開始分組任務-手足球模擬。
-* 講解ungit的使用方法。
+* 進行手足球的組裝模擬
+
+* 進行手足球的內部勾選
 
 
 </t>
@@ -427,10 +385,13 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190419014518.2"># Week2
+<t tx="leo.20190419014518.2"># Week12
 
-* 二二八連假
+* 做執行規劃
 
+* 規劃手足球模擬的進度
+
+* 進行手足球基本操作的模擬
 
 </t>
 <t tx="leo.20190419014519.1">&lt;section data-markdown&gt;
@@ -442,10 +403,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190419014519.2"># Week1
+<t tx="leo.20190419014519.2"># Week10
 
-* 說明本學期上課內容及評分方式。
-* 學習如何建立可攜程式。
+* 各組期末報告說明。
 
 
 </t>
@@ -463,12 +423,59 @@ vertical: body pane on the botton</t>
 ### 手足球模擬-bg2
 
 &lt;small&gt;
-Created by [第二組](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g2)
+Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/index.html)
 &lt;/small&gt;
 
-&lt;small&gt;
-[BLOG](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/blog/)
-&lt;/small&gt;
+
+
+</t>
+<t tx="leo.20190614051959.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614051959.2"># Week17
+
+* 整份執行規劃完成
+
+* 錄製期末報告影片
+
+* 完成個人倉儲
+
+</t>
+<t tx="leo.20190614052012.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614052012.2"># Week18
+
+* 期末考週
+
+</t>
+<t tx="leo.20190614052603.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614052603.2"># Week11
+
+* 重選一位組長，並分配工作。
+
+* 對全班期末倉儲進行fork，了解pull request使用方法。
+
 
 </t>
 </tnodes>
