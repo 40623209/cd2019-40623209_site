@@ -33,6 +33,9 @@
 <v t="leo.20190419014518.1" a="E"><vh>week12</vh>
 <v t="leo.20190614064659.1"><vh>12-1</vh></v>
 </v>
+<v t="leo.20190614115513.1" a="E"><vh>week12-2</vh>
+<v t="leo.20190614115513.2"><vh>12-3</vh></v>
+</v>
 <v t="leo.20190419014516.1" a="E"><vh>week13</vh>
 <v t="leo.20190614064745.1"><vh>13-1</vh></v>
 </v>
@@ -45,14 +48,14 @@
 <v t="leo.20190419014511.1"><vh>week16</vh>
 <v t="leo.20190419014511.2"><vh>w16</vh></v>
 </v>
-<v t="leo.20190614051959.1"><vh>week17</vh>
-<v t="leo.20190614051959.2"><vh>w17</vh></v>
+<v t="leo.20190614051959.1" a="E"><vh>week17</vh>
+<v t="leo.20190614115226.1"><vh>w17</vh></v>
 </v>
 <v t="leo.20190614052012.1"><vh>week18</vh>
 <v t="leo.20190614052012.2"><vh>w18</vh></v>
 </v>
 <v t="leo.20180902120523.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
 <v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
@@ -421,15 +424,6 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 
 						
 </t>
-<t tx="leo.20190614051959.2"># Week17
-
-* 整份執行規劃完成
-
-* 錄製期末報告影片
-
-* 完成個人倉儲
-
-</t>
 <t tx="leo.20190614052012.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -467,11 +461,40 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 
 * 規劃手足球模擬的進度
 
-* 進行手足球基本操作的模擬</t>
+* 進行手足球基本操作的模擬
+
+</t>
 <t tx="leo.20190614064745.1"># Week13
 
 * 進行手足球的組裝模擬
 
-* 進行手足球的內部勾選</t>
+* 進行手足球的內部勾選
+
+</t>
+<t tx="leo.20190614115226.1"># Week17
+
+* 整份執行規劃完成
+
+* 錄製期末報告影片
+
+* 完成個人倉儲
+
+</t>
+<t tx="leo.20190614115513.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614115513.2">### 手足球基本操作的模擬
+
+&lt;iframe src="https://player.vimeo.com/video/342135459" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
 </tnodes>
 </leo_file>
