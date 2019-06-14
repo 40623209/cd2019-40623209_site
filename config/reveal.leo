@@ -560,7 +560,7 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 
 						
 </t>
-<t tx="leo.20190614121631.2">###提交推送紀錄
+<t tx="leo.20190614121631.2">### 提交推送紀錄
 
 
 &lt;img src="https://i.imgur.com/f4JsMW8.jpg" height="347" width="640"&gt;
@@ -574,7 +574,7 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 
 						
 </t>
-<t tx="leo.20190614122030.2">###規劃手足球模擬的進度
+<t tx="leo.20190614122030.2">### 規劃手足球模擬的進度
 
 &lt;img src="https://i.imgur.com/Gpz7wxI.png" height="347" width="640"&gt;
 
