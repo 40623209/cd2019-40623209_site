@@ -36,8 +36,14 @@
 <v t="leo.20190614115513.1" a="E"><vh>week12-2</vh>
 <v t="leo.20190614115513.2"><vh>12-3</vh></v>
 </v>
-<v t="leo.20190419014516.1" a="E"><vh>week13</vh>
+<v t="leo.20190419014516.1"><vh>week13</vh>
 <v t="leo.20190614064745.1"><vh>13-1</vh></v>
+</v>
+<v t="leo.20190614115810.1"><vh>week13-2</vh>
+<v t="leo.20190614115810.2"><vh>13-3</vh></v>
+</v>
+<v t="leo.20190614115915.1" a="E"><vh>week13-4</vh>
+<v t="leo.20190614115915.2"><vh>13-5</vh></v>
 </v>
 <v t="leo.20190419014515.1" a="E"><vh>week14</vh>
 <v t="leo.20190419014515.2"><vh>w14</vh></v>
@@ -494,6 +500,33 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 &lt;iframe src="https://player.vimeo.com/video/342135459" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
 
 
+
+</t>
+<t tx="leo.20190614115810.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614115810.2">### 手足球的組裝模擬
+
+&lt;iframe src="https://player.vimeo.com/video/342135612" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190614115915.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614115915.2">### 手足球的內部勾選
+
+&lt;iframe src="https://player.vimeo.com/video/342135327" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
