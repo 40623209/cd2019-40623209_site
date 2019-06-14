@@ -33,6 +33,9 @@
 <v t="leo.20190419014518.1" a="E"><vh>week12</vh>
 <v t="leo.20190614064659.1"><vh>12-1</vh></v>
 </v>
+<v t="leo.20190614122030.1" a="E"><vh>week12-1</vh>
+<v t="leo.20190614122030.2"><vh>12-2</vh></v>
+</v>
 <v t="leo.20190614115513.1" a="E"><vh>week12-2</vh>
 <v t="leo.20190614115513.2"><vh>12-3</vh></v>
 </v>
@@ -42,10 +45,10 @@
 <v t="leo.20190614115810.1"><vh>week13-2</vh>
 <v t="leo.20190614115810.2"><vh>13-3</vh></v>
 </v>
-<v t="leo.20190614115915.1" a="E"><vh>week13-4</vh>
+<v t="leo.20190614115915.1"><vh>week13-4</vh>
 <v t="leo.20190614115915.2"><vh>13-5</vh></v>
 </v>
-<v t="leo.20190419014515.1" a="E"><vh>week14</vh>
+<v t="leo.20190419014515.1"><vh>week14</vh>
 <v t="leo.20190419014515.2"><vh>w14</vh></v>
 </v>
 <v t="leo.20190419014513.1"><vh>week15</vh>
@@ -54,8 +57,14 @@
 <v t="leo.20190419014511.1"><vh>week16</vh>
 <v t="leo.20190419014511.2"><vh>w16</vh></v>
 </v>
-<v t="leo.20190614051959.1" a="E"><vh>week17</vh>
+<v t="leo.20190614051959.1"><vh>week17</vh>
 <v t="leo.20190614115226.1"><vh>w17</vh></v>
+</v>
+<v t="leo.20190614121203.1" a="E"><vh>week17-2</vh>
+<v t="leo.20190614121203.2"><vh>w17-3</vh></v>
+</v>
+<v t="leo.20190614121631.1" a="E"><vh>week17-3</vh>
+<v t="leo.20190614121631.2"><vh>w17-3</vh></v>
 </v>
 <v t="leo.20190614052012.1"><vh>week18</vh>
 <v t="leo.20190614052012.2"><vh>w18</vh></v>
@@ -527,6 +536,47 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 <t tx="leo.20190614115915.2">### 手足球的內部勾選
 
 &lt;iframe src="https://player.vimeo.com/video/342135327" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190614121203.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614121203.2">###期末報告影片
+
+&lt;iframe src="https://player.vimeo.com/video/342172684" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190614121631.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614121631.2">###提交推送紀錄
+
+
+&lt;img src="https://i.imgur.com/f4JsMW8.jpg" height="640" width="347"&gt;
+</t>
+<t tx="leo.20190614122030.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614122030.2">###規劃手足球模擬的進度
+
+&lt;img src="https://i.imgur.com/Gpz7wxI.png" height="640" width="347"&gt;
 
 </t>
 </tnodes>
