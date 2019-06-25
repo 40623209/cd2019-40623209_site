@@ -24,17 +24,29 @@
 <v t="leo.20190419131456.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190419131456.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190419014519.1" a="E"><vh>week10</vh>
+<v t="leo.20190419014519.1"><vh>week10</vh>
 <v t="leo.20190419014519.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20190614052603.1" a="E"><vh>week11</vh>
+<v t="leo.20190614052603.1"><vh>week11</vh>
 <v t="leo.20190614052603.2"><vh>w11</vh></v>
 </v>
 <v t="leo.20190419014518.1" a="E"><vh>week12</vh>
-<v t="leo.20190419014518.2"><vh>w12</vh></v>
+<v t="leo.20190614064659.1"><vh>12-1</vh></v>
 </v>
-<v t="leo.20190419014516.1" a="E"><vh>week13</vh>
-<v t="leo.20190419014516.2"><vh>w13</vh></v>
+<v t="leo.20190614122030.1" a="E"><vh>week12-1</vh>
+<v t="leo.20190614122030.2"><vh>12-2</vh></v>
+</v>
+<v t="leo.20190614115513.1" a="E"><vh>week12-2</vh>
+<v t="leo.20190614115513.2"><vh>12-3</vh></v>
+</v>
+<v t="leo.20190419014516.1"><vh>week13</vh>
+<v t="leo.20190614064745.1"><vh>13-1</vh></v>
+</v>
+<v t="leo.20190614115810.1"><vh>week13-2</vh>
+<v t="leo.20190614115810.2"><vh>13-3</vh></v>
+</v>
+<v t="leo.20190614115915.1"><vh>week13-4</vh>
+<v t="leo.20190614115915.2"><vh>13-5</vh></v>
 </v>
 <v t="leo.20190419014515.1"><vh>week14</vh>
 <v t="leo.20190419014515.2"><vh>w14</vh></v>
@@ -46,16 +58,25 @@
 <v t="leo.20190419014511.2"><vh>w16</vh></v>
 </v>
 <v t="leo.20190614051959.1"><vh>week17</vh>
-<v t="leo.20190614051959.2"><vh>w17</vh></v>
+<v t="leo.20190614115226.1"><vh>w17</vh></v>
+</v>
+<v t="leo.20190614121203.1" a="E"><vh>week17-2</vh>
+<v t="leo.20190614121203.2"><vh>w17-3</vh></v>
+</v>
+<v t="leo.20190614121631.1" a="E"><vh>week17-3</vh>
+<v t="leo.20190614121631.2"><vh>w17-3</vh></v>
+</v>
+<v t="leo.20190614132716.1" a="E"><vh>week17-4</vh>
+<v t="leo.20190614132716.2"><vh>w17-4</vh></v>
 </v>
 <v t="leo.20190614052012.1"><vh>week18</vh>
 <v t="leo.20190614052012.2"><vh>w18</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
@@ -368,14 +389,6 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190419014516.2"># Week13
-
-* 進行手足球的組裝模擬
-
-* 進行手足球的內部勾選
-
-
-</t>
 <t tx="leo.20190419014518.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -384,15 +397,6 @@ vertical: body pane on the botton</t>
 
 
 						
-</t>
-<t tx="leo.20190419014518.2"># Week12
-
-* 做執行規劃
-
-* 規劃手足球模擬的進度
-
-* 進行手足球基本操作的模擬
-
 </t>
 <t tx="leo.20190419014519.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -438,15 +442,6 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 
 						
 </t>
-<t tx="leo.20190614051959.2"># Week17
-
-* 整份執行規劃完成
-
-* 錄製期末報告影片
-
-* 完成個人倉儲
-
-</t>
 <t tx="leo.20190614052012.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -475,6 +470,129 @@ Created by [李芳瑜](https://40623209.github.io/cd2019-40623209_site/content/i
 * 重選一位組長，並分配工作。
 
 * 對全班期末倉儲進行fork，了解pull request使用方法。
+
+
+</t>
+<t tx="leo.20190614064659.1"># Week12
+
+* 做執行規劃
+
+* 規劃手足球模擬的進度
+
+* 進行手足球基本操作的模擬
+
+</t>
+<t tx="leo.20190614064745.1"># Week13
+
+* 進行手足球的組裝模擬
+
+* 進行手足球的內部勾選
+
+</t>
+<t tx="leo.20190614115226.1"># Week17
+
+* 整份執行規劃完成
+
+* 錄製期末報告影片
+
+* 完成個人倉儲
+
+</t>
+<t tx="leo.20190614115513.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614115513.2">### 手足球基本操作的模擬
+
+&lt;iframe src="https://player.vimeo.com/video/342135459" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20190614115810.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614115810.2">### 手足球的組裝模擬
+
+&lt;iframe src="https://player.vimeo.com/video/342135612" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190614115915.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614115915.2">### 手足球的內部勾選
+
+&lt;iframe src="https://player.vimeo.com/video/342135327" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190614121203.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614121203.2">### 期末報告影片
+
+&lt;iframe src="https://player.vimeo.com/video/342172684" width="640" height="347" frameborder="0" allow="autoplay; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190614121631.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614121631.2">### 提交推送紀錄
+
+
+&lt;img src="https://i.imgur.com/f4JsMW8.jpg" height="347" width="640"&gt;
+</t>
+<t tx="leo.20190614122030.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614122030.2">### 規劃手足球模擬的進度
+
+&lt;img src="https://i.imgur.com/Gpz7wxI.png" height="347" width="640"&gt;
+
+</t>
+<t tx="leo.20190614132716.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614132716.2">### 自評成績 : 65分
+
 
 
 </t>
